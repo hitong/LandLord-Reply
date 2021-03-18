@@ -5,3 +5,6 @@
 2、支持单局回放，响应鼠标快捷操作 
 3、支持文件拖拽，拖入单文件进入手动打牌模式，拖入多文件进入自动播放模式 
 4、播放模式自动循环列表 5、可调整播放速度
+
+较老版本的界面
+[!image](https://github.com/hitong/LandLord-Reply/blob/master/Resources/demo.png)
