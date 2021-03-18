@@ -7,4 +7,4 @@
 4、播放模式自动循环列表 5、可调整播放速度
 
 较老版本的界面
-[!image](https://github.com/hitong/LandLord-Reply/blob/master/Resources/demo.png)
+![image](https://github.com/hitong/LandLord-Reply/blob/master/Resources/demo.png)
